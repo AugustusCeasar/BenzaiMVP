@@ -1,0 +1,1 @@
+curl -X POST http://127.0.0.1:5000/schema_suggestion -H "Content-Type: application/json" -d @sample_datasets.json

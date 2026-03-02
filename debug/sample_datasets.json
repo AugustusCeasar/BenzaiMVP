@@ -1,0 +1,10 @@
+[
+  {
+    "datasetname": "data one",
+    "datasetexample": "       col 1  col 2\nrow 1    0.1    0.2\nrow 2    0.3    0.4"
+  },
+  {
+    "datasetname": "data two",
+    "datasetexample": "     c    d\na  0.5  0.6\nb  0.7  0.8"
+  }
+]
