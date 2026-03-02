@@ -1,0 +1,4 @@
+pandas~=3.0.1
+numpy~=1.26.4 # TODO: upgrade to numpy 2.0 when other modules become compatible with it
+transformers~=4.57.6
+# torch~=2.10.0+cu126 # install the correct torch version for your system
