@@ -1,3 +1,8 @@
+##CUSTOM
+tests/*.xml
+tests/*.html
+
+##BOILERPLATE
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

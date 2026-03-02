@@ -1,0 +1,28 @@
+{
+        "custom_outputs": {
+                "acceptable_grade": {
+                        "desc":"Grade Benchmark met",
+                        "code":"A",
+                        "tag":"METGRADE",
+                        "color":"green"
+                },
+                "low_grade": {
+                        "desc":"Grade Below Benchmark",
+                        "code":"L",
+                        "tag":"LOWGRADE",
+                        "color":"yellow"
+                },
+                "partial_match": {
+                        "desc":"Partial Match",
+                        "code":"P",
+                        "tag":"PARTIAL",
+                        "color":"yellow"
+                },
+                "unrefined_test": {
+                        "desc":"Test needs further refinement",
+                        "code":"R",
+                        "tag":"REFINE",
+                        "color":"yellow"
+                }
+        }
+}
