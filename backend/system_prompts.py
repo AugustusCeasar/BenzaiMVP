@@ -46,9 +46,3 @@ patientid heartrateavg heartratepeak
         for i, dataset in enumerate(dataset_list):
             self.final_text += f"DATASET{i}NAME: {dataset['name']}\nDATASTE{i}EXAMPLE: {dataset['example']}\n"
         self.final_text += "SUGGESTED MERGED SCHEMA:\n"
-
-
-
-if __name__ == "__main__":
-    req = requests.get("https://physionet.org/files/meditation/1.0.0/")
-    print(req)
